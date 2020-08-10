@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Rules &amp; Play</string>
+    <string name="title_activity_navdrawer">navdrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Rules and Play</string>
+    <string name="nav_header_subtitle">nutcore software development</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="about_us">AboutUs</string>
+    <string name="cap0">Chess Playing Guide(International)</string>
+    <string name="cap1">Chess Playing Guide(Traditional)</string>
+    <string name="cap2">Simple Chess Play Guide</string>
+    <string name="cap3">Rubik Cube Playing Guide</string>
+    <string name="cap4">21 Cards called Blackjack Play Guide</string>
+    <string name="cap5">ShanKoemee or Doo Play Guide</string>
+    <string name="cap6">5 Cards Show or Poker(Texas)</string>
+    <string name="cap7">13 Cards Poker Myanmar</string>
+    <string name="cap8">Football Rules</string>
+    <string name="el">! 00P</string>
+    <string name="dlvdo">Downloaded Videos</string>
+    <string name="feedback">Feedback</string>
+    <string name="reqguide">Request Guide</string>
+    <string name="setting">Setting</string>
+    <string name="share">Share</string>
+    <string name="tuto">Tutorial</string>
+    <string name="appcon">App Convenience</string>
+</resources>
